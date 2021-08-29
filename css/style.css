@@ -1,0 +1,11 @@
+.sign-up{
+    margin-left: 35%;
+    border-radius: 30px;
+}
+.card-body{
+    border-top: 3px solid rgb(214, 211, 211);
+    border-bottom: 3px solid rgb(214, 211, 211);
+}
+.btn:hover{
+    color: white;
+}
